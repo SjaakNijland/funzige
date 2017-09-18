@@ -1,21 +1,41 @@
-nav{
+body{
+    padding-top: 40px;
+}
+header{
+    height: 40px;
     position: fixed;
+    top: 0;
+    transition: top 0.2s ease-in-out;
     width: 100%;
 
 }
-nav ul {
+.nav-up {
+    top: -80px;
+
+}
+main{
+    height: 10px;
+}
+header ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #171717;
+}
+#menu_right{
+    margin-right: 150px;
+}
+ header ul li {
+    float: right;
+    font-family: 'Raleway', sans-serif;
+     border-left: 1px solid white;
+}
+header ul li:last-child {
+    border-left: none
 }
 
- nav ul li {
-    float: left;
-}
-
- nav ul li a {
+ header ul li a {
     display: block;
     color: white;
     text-align: center;
@@ -23,13 +43,14 @@ nav ul {
     text-decoration: none;
 }
 
-nav ul li a:hover {
-    background-color: #111;
+header ul li a:hover {
+    background-color: #95c784;
 }
 #menu_logo{
-    width: 120px;
-    padding: 5px;
-    padding-top: 10px;
+    position: absolute;
+    width: 200px;
+    padding-left: 40px;
+    /*padding-top: 10px;*/
 }
 #menu_logo:hover{
    cursor: pointer;

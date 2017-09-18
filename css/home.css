@@ -3,6 +3,7 @@
     margin: 0 auto;
 }
 #home_logo{
+    margin-top: -100px;
     width: 100%;
 }
 section.module:last-child {
@@ -38,6 +39,7 @@ section.module.parallax h1 {
     text-align: center;
     text-transform: uppercase;
     text-shadow: 0 0 10px white;
+
 }
 section.module.parallax-1 {
     background-image: url("../img/banners/banner.jpg");
