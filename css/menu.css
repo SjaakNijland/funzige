@@ -1,3 +1,4 @@
+
 body{
     padding-top: 40px;
 }
@@ -7,6 +8,7 @@ header{
     top: 0;
     transition: top 0.2s ease-in-out;
     width: 100%;
+    z-index: 2;
 
 }
 .nav-up {
@@ -19,7 +21,7 @@ main{
 header ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+
     overflow: hidden;
     background-color: #171717;
 }
@@ -30,6 +32,9 @@ header ul {
     float: right;
     font-family: 'Raleway', sans-serif;
      border-left: 1px solid white;
+     font-size: 16px;
+     font-weight: bold;
+
 }
 header ul li:last-child {
     border-left: none
