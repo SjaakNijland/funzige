@@ -1,3 +1,68 @@
+#ons{
+    background-color: #518240;
+    height: 750px;
+    -webkit-box-shadow: inset 0px -48px 0px 0px rgba(110,178,87,1);
+    -moz-box-shadow: inset 0px -48px 0px 0px rgba(110,178,87,1);
+    box-shadow: inset 0px -48px 0px 0px rgba(110,178,87,1);
+}
+.ons_title{
+    margin-top: 60px;
+    background-color: #171717;
+    width: 350px;
+    height: 70px;
+    padding: 5px;
+    -webkit-box-shadow: -10px 23px 0px -10px rgba(232,232,232,1);
+    -moz-box-shadow: -10px 23px 0px -10px rgba(232,232,232,1);
+    box-shadow: -10px 23px 0px -10px rgba(232,232,232,1);
+}
+.ons_title h2{
+    color: #ffffff;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+#ons_content{
+    width: 90%;
+    margin: 0 auto;
+
+}
+.ons_profiel{
+    background-color: #171717;
+    width: 20%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    height: 100px;
+    float: left;
+    margin-top: 60px;
+}
+.team{
+    background-color: #171717;
+    width: 100%;
+    text-align: center;
+    color:white;
+
+}
+.team h1{
+   font-size: 32px;
+}
+.team h5{
+    font-size: 18px;
+    margin-top: -20px;
+}
+.team p{
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+
+}
+.team_button{
+    margin-bottom: 30px;
+    width: 50%;
+}
+.team_foto{
+    width: 80%;
+    border-radius: 300px;
+    margin-top: 40px;
+}
 #werk{
     background-color: #95c784;
     float: left;
@@ -82,6 +147,11 @@
     padding-top:15%;
     float: right;
 }
+.space{
+    width: 100%;
+    height: 550px;
+
+}
 .myButton {
     background-color:#95c784;
     -moz-border-radius:24px;
@@ -138,32 +208,23 @@ section.module.parallax {
     padding: 240px 0;
     background-position: 0 0;
 }
-/*section.module.parallax h1 {*/
-    /*color: #1e1e1e;*/
-    /*font-size: 48px;*/
-    /*line-height: 1;*/
-    /*font-weight: 700;*/
-    /*text-align: center;*/
-    /*text-transform: uppercase;*/
-    /*text-shadow: 0 0 10px white;*/
 
-/*}*/
 section.module.parallax-1 {
-    background-image: url("../img/banners/banner.png");
+    background-image: url("../img/banners/banner.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
 section.module.parallax-2 {
-    background-image: url("../img/banners/banner.png");
+    background-image: url("../img/banners/banner.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
 section.module.parallax-3 {
-    background-image: url("../img/banners/banner.png");
+    background-image: url("../img/banners/banner.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

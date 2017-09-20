@@ -46,31 +46,73 @@
                 </div>
             </section>
 
-            <section class="module parallax parallax-2" id="news">
+            <section class="module parallax parallax-2">
                 <div class="container">
-                    <h1>Shape</h1>
+                    <div class="space">
+                    </div>
                 </div>
             </section>
 
-            <section class="module content" id="contact">
+            <section class="module content" id="ons">
                 <div class="container color">
-                    <h2>Lorem Ipsum Dolor</h2>
-                    <p>Lorem ipsum dolor...</p>
+                    <div class="ons_title">
+                        <h2>Over ons</h2>
+                    </div>
+                    <div id="ons_content">
+                        <div class="ons_profiel">
+                            <div class="team">
+                                <img src="./img/ava.jpg" alt="foto" class="team_foto">
+                                <h1>Sjaak Nijland</h1>
+                                <h5>(Mediadeveloper)</h5>
+                                <p>Sjaak is een developer die bezig is met ze 3de jaar als mediadeveloper op het media college amsterdam.
+                                Hij focust op Front-end maar is niet vies van wat Back-end werk. Samen met willem vormen ze het coder werk voor het bedrijf.
+                                </p>
+                                <a href="#" class="myButton team_button">Portofolio</a>
+                            </div>
+                        </div>
+                        <div class="ons_profiel">
+                            <div class="team">
+                                <img src="./img/ava.jpg" alt="foto" class="team_foto">
+                                <h1>Sjaak Nijland</h1>
+                                <h5>(Mediadeveloper)</h5>
+                                <p>Sjaak is een developer die bezig is met ze 3de jaar als mediadeveloper op het media college amsterdam.
+                                    Hij focust op Front-end maar is niet vies van wat Back-end werk. Samen met willem vormen ze het coder werk voor het bedrijf.
+                                </p>
+                                <a href="#" class="myButton team_button">Portofolio</a>
+                            </div>
+                        </div>
+                        <div class="ons_profiel">
+                            <div class="team">
+                                <img src="./img/ava.jpg" alt="foto" class="team_foto">
+                                <h1>Sjaak Nijland</h1>
+                                <h5>(Mediadeveloper)</h5>
+                                <p>Sjaak is een developer die bezig is met ze 3de jaar als mediadeveloper op het media college amsterdam.
+                                    Hij focust op Front-end maar is niet vies van wat Back-end werk. Samen met willem vormen ze het coder werk voor het bedrijf.
+                                </p>
+                                <a href="#" class="myButton team_button">Portofolio</a>
+                            </div>
+                        </div>
+                        <div class="ons_profiel">
+                            <div class="team">
+                                <img src="./img/ava.jpg" alt="foto" class="team_foto">
+                                <h1>Sjaak Nijland</h1>
+                                <h5>(Mediadeveloper)</h5>
+                                <p>Sjaak is een developer die bezig is met ze 3de jaar als mediadeveloper op het media college amsterdam.
+                                    Hij focust op Front-end maar is niet vies van wat Back-end werk. Samen met willem vormen ze het coder werk voor het bedrijf.
+                                </p>
+                                <a href="#" class="myButton team_button">Portofolio</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </section>
 
             <section class="module parallax parallax-3" id="about">
                 <div class="container">
-                    <h1>Colour</h1>
+
                 </div>
             </section>
 
-            <section class="module content color">
-                <div class="container">
-                    <h2>Lorem Ipsum Dolor</h2>
-                    <p>Lorem ipsum dolor...</p>
-                </div>
-            </section>
              <script src="js/parallax.js"></script>
 
     </div>
