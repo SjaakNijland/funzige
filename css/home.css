@@ -210,21 +210,21 @@ section.module.parallax {
 }
 
 section.module.parallax-1 {
-    background-image: url("../img/banners/banner.jpg");
+    background-image: url("../img/banners/banner.png");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
 section.module.parallax-2 {
-    background-image: url("../img/banners/banner.jpg");
+    background-image: url("../img/banners/banner.png");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
 section.module.parallax-3 {
-    background-image: url("../img/banners/banner.jpg");
+    background-image: url("../img/banners/banner.png");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
