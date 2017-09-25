@@ -112,6 +112,36 @@
 
                 </div>
             </section>
+            <section class="module content" id="contact">
+                <div class="container color">
+                    <div class="contact_title">
+                        <h2>Contact</h2>
+                    </div>
+                    <div class="contact_content">
+                        <div id="contact_content_iframe">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2434.8627764701464!2d4.854793151673582!
+                            3d52.391037879690906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47
+                            c5e28849730d2f%3A0x5dffd675d740eddb!2sMediacollege+Amsterdam!5e0!3m2!1snl!2snl!4v1505903123162"
+                                    width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        </div>
+                        <div class="contact_content_from">
+                            <form action="" class="form">
+                                First name:<br>
+                                <input type="text" name="firstname" value="Mickey">
+                                <br>
+                                Last name:<br>
+                                <input type="text" name="lastname" value="Mouse">
+                                <br>
+                                Last name:<br>
+                                <input type="email" name="email" value="Mouse">
+                                <br><br>
+                                <input type="submit" value="Submit">
+                            </form>
+                            <img src="./img/logo2.png" id="contact_logo" alt="logo">
+                        </div>
+                    </div>
+                </div>
+            </section>
 
              <script src="js/parallax.js"></script>
 
